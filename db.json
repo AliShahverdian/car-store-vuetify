@@ -1,0 +1,28 @@
+{
+	"products": [
+		{
+			"brand": "benz",
+			"model": "maybach",
+			"price": "400",
+			"desc": "the lauxary car",
+			"img": "blob:http://localhost:3001/0743af14-3fa8-4ce4-a970-e29b38ad21d2",
+			"id": 1
+		},
+		{
+			"brand": "aston martin",
+			"model": "db9",
+			"price": "200",
+			"desc": "lauxury hyper car",
+			"img": "blob:http://localhost:3001/c5242db6-3c68-42ac-a811-7b519e9939c6",
+			"id": 2
+		},
+		{
+			"brand": "audi",
+			"model": "tt",
+			"price": "25",
+			"desc": "coupe",
+			"img": "blob:http://localhost:3001/9f796036-eb31-4f44-b3cf-39d7de96e825",
+			"id": 3
+		}
+	]
+}
